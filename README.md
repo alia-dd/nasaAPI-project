@@ -1,6 +1,6 @@
 **NASA API Project**
 
-The NASA API project is a web application that utilizes the NASA API to provide users with fascinating content related to space exploration. The home page serves as a gateway to various features, including the Astronomy Picture of the Day (APOD) and a collection of pictures taken by astronauts.
+The NasaAPI  is a web application that utilizes the NASA API to provide users with fascinating content related to space exploration. The home page serves as a gateway to various features, including the Astronomy Picture of the Day (APOD) and a collection of pictures taken by astronauts.
 
 ### Features:
 
