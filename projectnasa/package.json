@@ -1,5 +1,6 @@
 {
   "name": "projectnasa",
+  "homepage": "https://alia-dd.github.io/nasaAPI-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
