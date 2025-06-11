@@ -16,7 +16,7 @@ function Footer() {
             {/* <img src={codelog} alt=""></img> */}
             <div className='icon' > <img src={galaxy} alt="this logo img" /></div>
 
-            Discover NASA's Social Universe!
+            Discover NASA's Social Universe!!
             <br></br>
             Follow the stars and stay connected with the latest 
             updates from NASA through our social media channels. 
